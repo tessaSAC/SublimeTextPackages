@@ -5,13 +5,17 @@
 	],
 	"installed_packages":
 	[
+		"BracketHighlighter",
 		"Colorsublime",
 		"Console Exec",
 		"DocBlockr",
+		"Emmet",
 		"Evernote",
 		"Git",
 		"GitGutter",
 		"Harmonious Color Schemes",
+		"HTML-CSS-JS Prettify",
+		"JsFormat",
 		"JSHint Gutter",
 		"Package Control",
 		"SublimeLinter",
