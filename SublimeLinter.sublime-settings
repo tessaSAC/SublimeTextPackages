@@ -11,9 +11,32 @@
 		"lint_mode": "load/save",
 		"linters":
 		{
-			"jshint":
+			"csslint":
 			{
 				"@disable": false,
+				"args":
+				[
+				],
+				"errors": "",
+				"excludes":
+				[
+				],
+				"ignore": "",
+				"warnings": ""
+			},
+			"eslint":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
+			},
+			"jshint":
+			{
+				"@disable": true,
 				"args":
 				[
 				],
@@ -24,6 +47,13 @@
 		},
 		"mark_style": "outline",
 		"no_column_highlights_line": false,
+		"parserOptions":
+		{
+			"ecmaFeatures":
+			{
+				"jsx": true
+			}
+		},
 		"passive_warnings": false,
 		"paths":
 		{
@@ -37,6 +67,10 @@
 			[
 			]
 		},
+		"plugins":
+		[
+			"react"
+		],
 		"python_paths":
 		{
 			"linux":
@@ -50,6 +84,15 @@
 			]
 		},
 		"rc_search_limit": 3,
+		"settings":
+		{
+			"react":
+			{
+				"createClass": "createClass",
+				"pragma": "React",
+				"version": "15.0"
+			}
+		},
 		"shell_timeout": 10,
 		"show_errors_on_save": false,
 		"show_marks_in_minimap": true,

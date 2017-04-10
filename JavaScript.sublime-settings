@@ -1,3 +1,6 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Abyss (SL) - lighter comments.tmTheme"
+	"color_scheme": "Packages/User/SublimeLinter/Abyss (SL) - lighter comments.tmTheme",
+	"extensions":
+	[
+	]
 }

@@ -1,7 +1,28 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Abyss (SL) - lighter comments.tmTheme",
+	"auto_complete_commit_on_tab": false,
+	"auto_complete_with_fields": true,
+	"binary_file_patterns":
+	[
+		".DS_Store",
+		".gitignore",
+		"node_modules/"
+	],
+	"color_scheme": "Packages/User/SublimeLinter/Oceanic Next (SL).tmTheme",
+	"font_face": "Oxygen Mono",
 	"ignored_packages":
 	[
+		"CSS",
 		"Vintage"
-	]
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"theme": "Oceanic Next.sublime-theme",
+	"theme_agila_compact_tab": true,
+	"theme_agila_horizontal_scrollbar_lightblue": true,
+	"theme_agila_modified_tab_marker_lightblue": true,
+	"theme_agila_modified_tab_marker_yellow": true,
+	"theme_agila_sidebar_font_xsmall": true,
+	"theme_agila_sidebar_mini": true,
+	"theme_agila_vertical_scrollbar_lightblue": true,
+	"word_wrap": "true"
 }
